@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name"> </string>
+    <string name="app_title">Tic Tac Toe</string>
+    <string name="single_player_button">Single Player</string>
+    <string name="multi_player_button">MultiPlayer</string>
+    <string name="settings_button">Settings</string>
+    <string name="button_x">X</string>
+    <string name="button_o">O</string>
+    <string name="games_text">Games</string>
+    <string name="wins_text">Wins</string>
+    <string name="loses_text">Loses</string>
+    <string name="ties_text">Ties</string>
+    <string name="easy_mode">Easy</string>
+    <string name="medium_mode">Medium</string>
+    <string name="hard_mode">Hard</string>
+    <string name="level_text">Level</string>
+    <string name="first_to_move_text">First to Move</string>
+    <string name="second_to_move_text">Second to Move</string>
+    <string name="light_theme">Light</string>
+    <string name="dark_theme">Dark</string>
+
+</resources>
